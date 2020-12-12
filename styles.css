@@ -1,0 +1,103 @@
+table{
+	width:100%;
+	height:100%;
+}
+h1{
+	text-align:center;
+	color:black;
+}
+body{
+	background-color:white;
+}
+table{
+	border: 4px 
+	background-color:pink;
+}
+tr{
+	color: black;
+}
+.first{
+	font-size : 120%;
+	color: #ffe369;
+	background color: rgba(110, 0, 0, 0.4);
+	border: 2px color:rgba(189, 195, 199, 0.05);
+	padding: 10px;
+}
+.second{
+	font-size : 120%;
+	text-align: center;
+	font-style: bold;
+	font-family:verdana;
+}
+.third{
+	font-size : 120%;
+	text-align: center;
+	font-style: bold;
+	font-family:verdana;
+}
+.fourth{
+	font-size : 120%;
+	text-align: center;
+	font-style: bold;
+	font-family:verdana;
+}
+.fifth{
+	font-size : 120%;
+	text-align: center;
+	font-style: bold;
+	font-family:verdana;
+}
+.sixth{
+	font-size : 120%;
+	text-align: center;
+	font-style: bold;
+	font-family:verdana;
+}
+.seventh{
+	font-size : 120%;
+	text-align: center;
+	font-style: bold;
+	font-family:verdana;
+}
+.eighth{
+	font-size : 120%;
+	text-align: center;
+	font-style: bold;
+	font-family:verdana;
+}
+.ninth{
+	font-size : 120%;
+	text-align: center;
+	font-style: bold;
+	font-family:verdana;
+}
+.tenth{	
+	font-size : 120%;
+	text-align: center;
+	font-style: bold;
+	font-family:verdana;
+}
+.eleventh{
+	font-size : 120%;
+	text-align: center;
+	font-style: bold;
+	font-family:verdana;
+}
+.twelfth{
+	font-size : 120%;
+	text-align: center;
+	font-style: bold;
+	font-family:verdana;
+}
+.thirteenth{
+	font-size : 120%;
+	text-align: center;
+	font-style: bold;
+	font-family:verdana;
+}
+.color1{
+	background-color:#e0c5a2;
+}
+.color{
+	background-color:#6e1f0f;
+}
